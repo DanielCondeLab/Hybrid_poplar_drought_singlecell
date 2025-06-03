@@ -8,6 +8,8 @@ The dataset used in this study is available at the NCBI Gene Expression Omnibus 
 
 Clustered datasets can be downloaded from FigShare at https://doi.org/10.6084/m9.figshare.29228876.
 
+Interative web applications to explore the clustered datasets are available at https://kirstlab.shinyapps.io/snrnaseq_drought_tolerance_in_poplar_whole_dataset/ and https://kirstlab.shinyapps.io/snrna_seq_drought_tolerance_in_poplar_xylem_subset/
+
 ### First steps
 
 The integration of the four single-nucleus RNA-seq datasets, quality control, and clustering was performed using the web application [Asc-Seurat, v.2.2](https://asc-seurat.readthedocs.io/en/latest/index.html). Asc-Seurat is based on the Seurat package v4. 
