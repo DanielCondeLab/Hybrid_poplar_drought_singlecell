@@ -6,6 +6,8 @@ This repository contains the necessary code to reproduce the results described i
 
 The dataset used in this study is available at the NCBI Gene Expression Omnibus and are accessible through accession number [GSE283835](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE283835).
 
+Clustered datasets can be downloaded from FigShare at 10.6084/m9.figshare.29228876.
+
 ### First steps
 
 The integration of the four single-nucleus RNA-seq datasets, quality control, and clustering was performed using the web application [Asc-Seurat, v.2.2](https://asc-seurat.readthedocs.io/en/latest/index.html). Asc-Seurat is based on the Seurat package v4. 
@@ -52,7 +54,7 @@ Rscript script3_trajectory_inference.R
 All steps of the hdWGCNA analysis were performed using the R script `script2_hdWGCNA.R`, which can be executed as follows:
 
 ```terminal
-Rscript script2_hdWGCNA.R
+Rscript script4_hdWGCNA.R
 ```
 
 #### Visualization of the results
