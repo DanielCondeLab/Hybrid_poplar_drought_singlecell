@@ -6,7 +6,7 @@ This repository contains the necessary code to reproduce the results described i
 
 The dataset used in this study is available at the NCBI Gene Expression Omnibus and are accessible through accession number [GSE283835](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE283835).
 
-Clustered datasets can be downloaded from FigShare at 10.6084/m9.figshare.29228876.
+Clustered datasets can be downloaded from FigShare at https://doi.org/10.6084/m9.figshare.29228876.
 
 ### First steps
 
