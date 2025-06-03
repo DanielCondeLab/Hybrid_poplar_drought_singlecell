@@ -1,0 +1,5 @@
+﻿Subfolder,Treatment,Min.Cells,Min.Genes,Max.Genes,Max.Mito
+Control1_remove_doublets,Control,3,400,500000,20
+Control2_remove_doublets,Control,3,400,500000,20
+Drought1_remove_doublets,Drought,3,200,500000,20
+Drought2_remove_doublets,Drought,3,200,500000,20
