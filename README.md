@@ -1,5 +1,9 @@
 ## Single-nucleus transcriptomics revealed auxin-driven mechanisms of wood plasticity to enhance severe drought tolerance in poplar
 
+Authors:
+Daniela Gómez-Soto, Wendell J. Pereira, Alejandro Piedrabuena-Díaz, Christopher Dervinis, Matias Kirst, Isabel Allona, Mariano Perales, Daniel Conde.
+
+
 ### Introduction
 
 This repository contains the necessary code to reproduce the results described in "Single-nucleus transcriptomics revealed auxin-driven mechanisms of wood plasticity to enhance severe drought tolerance in poplar", from Gómez-Soto et al. 2025 and published in the journal Genome Biology.
@@ -8,7 +12,7 @@ The dataset used in this study is available at the NCBI Gene Expression Omnibus 
 
 Clustered datasets can be downloaded from FigShare at https://doi.org/10.6084/m9.figshare.29228876.
 
-Interative web applications to explore the clustered datasets are available at https://kirstlab.shinyapps.io/snrnaseq_drought_tolerance_in_poplar_whole_dataset/ and https://kirstlab.shinyapps.io/snrna_seq_drought_tolerance_in_poplar_xylem_subset/
+Interactive web applications to explore the clustered datasets are available at https://kirstlab.shinyapps.io/snrnaseq_drought_tolerance_in_poplar_whole_dataset/ and https://kirstlab.shinyapps.io/snrna_seq_drought_tolerance_in_poplar_xylem_subset/
 
 ### First steps
 
